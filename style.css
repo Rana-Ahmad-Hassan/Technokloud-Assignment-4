@@ -1,0 +1,41 @@
+.Info {
+    background: rgba(93, 169, 233, 0.08);
+}
+
+.shadow {
+
+    position: absolute;
+    width: 478px;
+    height: -742px;
+    left: 850px;
+    top: 371px;
+}
+
+.Progress1 {
+    color: #AA7B2F;
+    background-color: #AA7B2F;
+
+
+}
+
+/* body{
+    overflow: hidden;
+} */
+
+.topflow {
+    margin-top: -150px;
+}
+
+@media screen(min>=570px) {
+    .topflow {
+        margin-top: 0px;
+    }
+}
+
+
+.card3{
+    background-image: url("assets/Rectangle 4598-1.png");
+    background-size: cover;
+    height: 65%;
+    width: 100%;
+}
